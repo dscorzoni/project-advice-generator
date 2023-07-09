@@ -1,6 +1,6 @@
 // Catching elements
-const quoteHeader = document.querySelector("span");
-const quoteText = document.querySelector("p");
+const quoteHeader = document.querySelector(".advice-id");
+const quoteText = document.querySelector(".advice-content");
 const diceButton = document.querySelector("button");
 
 const fetchData = () => {
